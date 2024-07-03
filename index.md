@@ -17,7 +17,7 @@ The workshop will be 1pm to 5pm in the Penn I & II room.
 {% endfor %}
 </div>
 
-Hosted by the [Cognitive Science Society](https://cognitivesciencesociety.org/), {{ site.pub_year }}.
+Hosted by the [Cognitive Science Society](https://cognitivesciencesociety.org/cogsci-2024/), {{ site.pub_year }}.
  
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >

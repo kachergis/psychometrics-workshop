@@ -27,7 +27,7 @@ repo: "https://github.com/psychometrics-workshop/psychometrics-workshop.github.i
 url: "https://psychometrics-workshop.github.io"
 # add subsection of the domain,
 # on gh-pages this is /psychometrics-workshop
-baseurl: "/psychometrics-workshop"
+baseurl: ""
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored

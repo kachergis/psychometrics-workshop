@@ -4,7 +4,7 @@ title: Home
 
 # Using Psychometrics to Improve Cognitive Models–and Theory
 
-{% include figure.html img="psychometrics-workshop.webp" alt="Photo of Allen Newell at a blackboard." caption="Allen Newell" width="75%" %}
+{% include figure.html img="psychometrics-workshop.webp" alt="AI-generated image of a cognitive psychometrics workshop." caption="What ChatGPT thinks our workshop will look like." width="75%" %}
 
 The field of psychometrics has undergone substantial evolution over the past several decades, both in terms of advances in methodology and improved software and hardware for deploying new methods. Despite these strides, many of these developments have not been integrated into the broader field of psychology -- this workshop aims to help change that at CogSci in Rotterdam, July 24, 2024.
 

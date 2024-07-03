@@ -18,3 +18,7 @@ Main topics of discussion will be:
 
 
 ### References
+- Borsboom, D. (2006). The attack of the psychometricians. *Psychometrika*, *71*(3), 425–440.
+- Borsboom, D., van der Maas, H. L. J., Dalege, J., Kievit, R. A., & Haig, B. D. (2021). Theory construction methodology: A practical framework for building theories in psychology. *Perspectives on Psychological Science*, *16*,
+756–766.
+- Embretson, S. E. (2005). The second century of ability testing: Some predictions and speculations. *Measurement*, *2*(1), 1–32.

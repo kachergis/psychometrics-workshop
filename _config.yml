@@ -14,12 +14,12 @@ description: "2024 Cognitive Science Workshop on Psychometrics "
 keywords: "theory development, psychometrics, measurement, individual differences"
 
 # author settings for cc-by, appears in the footer
-author: George Kachergis, Alvin Wei-Ming Tan, and Michael C. Frank
+author: George Kachergis, Alvin Wei Ming Tan, and Michael C. Frank
 pub_year: 2024
 github_username: kachergis
 
 # add the full url for the github repository
-repo: "https://github.com/kachergis/psychometrics-workshop"
+repo: "https://github.com/psychometrics-workshop/psychometrics-workshop.github.io"
 
 # site urls
 # add the url for the domain,
@@ -27,7 +27,7 @@ repo: "https://github.com/kachergis/psychometrics-workshop"
 url: "https://psychometrics-workshop.github.io"
 # add subsection of the domain,
 # on gh-pages this is /psychometrics-workshop
-baseurl: ""
+baseurl: "/psychometrics-workshop"
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored

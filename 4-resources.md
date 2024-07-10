@@ -8,6 +8,7 @@ nav: true
 [What is psychometrics?](https://www.psychometricsociety.org/what-psychometrics) - answered by psychometricians of the Psychometric Society, along with some historical context.
 
 R tutorial: 
+- [Introductory slides](https://docs.google.com/presentation/d/1Ra3U-PEZRi_jiPhTgzvGzfbNT8Iew4PWkqSlSatSH3s/edit?usp=sharing)
 - [https://github.com/psychometrics-workshop/psychometrics-tutorial](https://github.com/psychometrics-workshop/psychometrics-tutorial)
 - Recommended use: visit [https://posit.cloud](https://posit.cloud) and create a new project from this repository.
 

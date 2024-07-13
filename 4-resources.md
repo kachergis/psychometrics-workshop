@@ -21,6 +21,9 @@ Selection of relevant papers:
 - Schimmack, U. (2024). [Attack on the pseudometricians](https://replicationindex.com/2024/06/18/attack-on-the-pseudometricians/).
 
 
+Curated IRT Datasets:
+- [The Item-Response Warehouse](https://datapages.github.io/irw) open-source, harmonized datasets from Ben Domingue, Mika Braginsky, and Michael C. Frank
+
 Workshop slides on `mirt` and `mirtCAT` packages, for IRT analysis in R (Chalmers, 2015):
 - [Multidimensional Item Response Theory Workshop
 in R - Day 1](https://philchalmers.github.io/mirt/extra/mirt-Workshop-2015_Day-1.pdf)

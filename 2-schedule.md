@@ -15,6 +15,6 @@ The workshop is on July 24 and times are Rotterdam local (GMT+1). See full [CogS
 | 2:30-3:00  | (coffee break) |            |                                                                 |
 | 3:00-3:25  |                | de Ron     | Modeling resource competition in cognitive development          |
 | 3:30-3:55  |                | Vermeent   | Modeling cognitive deficits and enhancements in adversity-exposed youth using Drift Diffusion Modeling |
-| 4:00-4:25  |                | Judd       | Modeling cognitive variability in 11 tasks                      |
-| 4:30-4:55  |                | Schaaf     | Modeling the development of cognitive abilities over time |
+| 4:00-4:25  |                | Schaaf     | Modeling the development of cognitive abilities over time       |
+| 4:30-4:55  |                | Judd       | Modeling cognitive variability in 11 tasks                      |
 | 4:55-5:00  | wrap-up        |            |      |

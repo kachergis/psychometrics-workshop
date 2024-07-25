@@ -20,7 +20,6 @@ Selection of relevant papers:
 - Embretson, S. E. (2005). [The second century of ability testing: Some predictions and speculations](https://www.ets.org/Media/Research/pdf/PICANG7.pdf). *Measurement*, *2*(1), 1–32.
 - Schimmack, U. (2024). [Attack on the pseudometricians](https://replicationindex.com/2024/06/18/attack-on-the-pseudometricians/).
 
-
 Curated IRT Datasets:
 - [The Item-Response Warehouse](https://datapages.github.io/irw) open-source, harmonized datasets from Ben Domingue, Mika Braginsky, and Michael C. Frank
 
@@ -33,3 +32,9 @@ in R - Day 2](https://philchalmers.github.io/mirt/extra/mirt-Workshop-2015_Day-2
 Textbooks:
 - Brown, A. (2024). [Psychometrics in Exercises using R and RStudio](https://bookdown.org/annabrown/psychometricsR/).
 - Revelle, W. (under development). [An introduction to psychometric theory with applications in R](https://www.personality-project.org/r/book/).
+
+
+Dynamic Structural Equation Model (DSEM) resources:
+- Primer paper: [https://pubmed.ncbi.nlm.nih.gov/31855015/](https://pubmed.ncbi.nlm.nih.gov/31855015/)
+- Book chapter: [https://ellenhamaker.github.io/DSEM-book-chapter/HamakerAsparouhovMuthen21.pdf](https://ellenhamaker.github.io/DSEM-book-chapter/HamakerAsparouhovMuthen21.pdf)
+- Good demo videos from the inventors: [https://ellenhamaker.github.io/DSEM-demo-videos/#Introduction](https://ellenhamaker.github.io/DSEM-demo-videos/#Introduction)

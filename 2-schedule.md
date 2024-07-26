@@ -6,7 +6,7 @@ nav: true
 # Schedule
 
 The workshop was on July 24 and times are Rotterdam local (GMT+1) -- thank you to all presenters and attendees! See full [CogSci 2024 program](https://cognitivesciencesociety.org/program/). 
-We are adding slides as we receive them. (Last updated 7/25/2024)
+We are adding slides as we receive them. (Last updated 26 July 2024)
 
 | Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Activity         | Presenter  | Title                                                      |
 | ------------ | -------------- | ---------- | --------------------------------------------------------------- |

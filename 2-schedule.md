@@ -16,6 +16,6 @@ We are adding slides as we receive them. (Last updated 7/25/2024)
 | 2:30-3:00  | (coffee break) |            |                                                                 |
 | 3:00-3:25  |                | de Ron     | Modeling resource competition in cognitive development          |
 | 3:30-3:55  |                | Vermeent   | [Modeling cognitive deficits and enhancements in adversity-exposed youth using Drift Diffusion Modeling](https://www.stefan-vermeent.nl/slides/cogsci2024_vermeent.pdf) |
-| 4:00-4:25  |                | Schaaf     | [Modeling the development of cognitive abilities over time](Schaaf-timeseries.pdf)       |
-| 4:30-4:55  |                | Judd       | Modeling cognitive variability in 11 tasks                      |
+| 4:00-4:25  |                | Schaaf     | [Modeling the development of cognitive abilities over time](slides/Schaaf-timeseries.pdf)       |
+| 4:30-4:55  |                | Judd       | [Modeling cognitive variability in 11 tasks](slides/Judd-fluctuations.pdf)                      |
 | 4:55-5:00  | wrap-up        |            |      |
